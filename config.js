@@ -6,7 +6,7 @@ global.ownername = process.env.OWNER_NAME || "David Cyril";
 global.packname = process.env.PACK_NAME || "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒";
 global.author = process.env.AUTHOR || "꧁𝑬𝒍𝒐𝒏 𝑴𝒖𝒔𝒌 𝑻𝑽꧂";
 global.channelname = process.env.CHANNEL_NAME || "꧁𝑬𝒍𝒐𝒏 𝑴𝒖𝒔𝒌 𝑻𝑽꧂";
-global.channellink = process.env.CHANNEL_LINK || "https://chat.whatsapp.com/KhMiUEz6im74iDDtsNJ3xC";
+global.channeljid = process.env.CHANNEL_JID || "120363315231436175@newsletter";
 global.autoTyping = process.env.AUTO_TYPING === 'true'; 
 global.autoRecord = process.env.AUTO_RECORD === 'true';
 global.autoViewStatus = process.env.AUTO_VIEW_STATUS === 'true';
